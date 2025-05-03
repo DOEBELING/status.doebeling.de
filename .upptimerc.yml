@@ -6,7 +6,7 @@ user-agent: MopsFrank
 sites:
   - name: 'Doebeling.de'
     url: https://Doebeling.de
-    __dangerous__body_down_if_text_missing: 'projektbuero@doebeling.de_error'
+    __dangerous__body_down_if_text_missing: 'projektbuero@doebeling.de'
     icon: https://Doebeling.de/favicon.ico
     maxResponseTime: 500
     skipDeleteIssues: true
