@@ -1,36 +1,60 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Feiert-ag # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
+user-agent: MopsFrank
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: 'Doebeling.de'
+    url: https://Doebeling.de
+    __dangerous__body_down_if_text_missing: 'projektbuero@doebeling.de'
+    icon: https://Doebeling.de/favicon.ico
+    maxResponseTime: 500
+    skipDeleteIssues: true
+    assignees:
+    - ADoebeling  
+
+  - name: 'Andreas.Doebeling.de'
+    url: https://Andreas.Doebeling.de
+    __dangerous__body_down_if_text_missing: 'A@Doebeling.de'
+    icon: https://Andreas.Doebeling.de/favicon.ico
+    maxResponseTime: 500
+    skipDeleteIssues: true
+    assignees:
+    - ADoebeling
+
+  - name: 'Spruch-Archiv.com'
+    url: https://Spruch-Archiv.com
+    icon: https://www.spruch-archiv.com/favicon.ico
+    __dangerous__body_down_if_text_missing: 'Herzlich Willkommen im Spruch-Archiv'
+    maxResponseTime: 1000
+    skipDeleteIssues: true
+    assignees:
+    - Xendiadyon
+  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.doebeling.de
+  robotsText: "User-agent: * \n Disallow: /"
+  theme: light
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://avatars.githubusercontent.com/u/10698845
+  name: Status
+  introTitle: "Status of our own webservices"
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: DÖBELING Projektbüro
+      href: https://Doebeling.de
+
+i18n:
+  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)<br>[Impressum](https://legal.doebeling.de/impressum), [Datenschutzerklärung](https://legal.doebeling.de/datenschutzerklaerung)
+
+
+commitMessages:
+  commitAuthorName: "MopsFrank [bot]"
+  commitAuthorEmail: "mopsfrank.bot@doebeling.de"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
