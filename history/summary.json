@@ -5,11 +5,11 @@
     "icon": "https://Doebeling.de/favicon.ico",
     "slug": "doebeling-de",
     "status": "up",
-    "uptime": "99.08%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "99.08%",
-    "uptimeYear": "99.08%",
+    "uptime": "99.48%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.48%",
     "time": 105,
     "timeDay": 105,
     "timeWeek": 105,
@@ -42,17 +42,19 @@
     "url": "https://Spruch-Archiv.com",
     "icon": "https://www.spruch-archiv.com/favicon.ico",
     "slug": "spruch-archiv-com",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 259,
-    "timeDay": 259,
-    "timeWeek": 259,
-    "timeMonth": 259,
-    "timeYear": 259,
-    "dailyMinutesDown": {}
+    "time": 2687,
+    "timeDay": 2687,
+    "timeWeek": 2687,
+    "timeMonth": 2687,
+    "timeYear": 2687,
+    "dailyMinutesDown": {
+      "2025-05-04": 0
+    }
   }
 ]
