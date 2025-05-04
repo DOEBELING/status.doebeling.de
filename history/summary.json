@@ -42,19 +42,19 @@
     "url": "https://Spruch-Archiv.com",
     "icon": "https://www.spruch-archiv.com/favicon.ico",
     "slug": "spruch-archiv-com",
-    "status": "degraded",
-    "uptime": "87.45%",
-    "uptimeDay": "85.52%",
-    "uptimeWeek": "87.45%",
-    "uptimeMonth": "87.45%",
-    "uptimeYear": "87.45%",
-    "time": 2213,
-    "timeDay": 2706,
-    "timeWeek": 2213,
-    "timeMonth": 2213,
-    "timeYear": 2213,
+    "status": "up",
+    "uptime": "86.97%",
+    "uptimeDay": "84.89%",
+    "uptimeWeek": "86.97%",
+    "uptimeMonth": "86.97%",
+    "uptimeYear": "86.97%",
+    "time": 1904,
+    "timeDay": 2237,
+    "timeWeek": 1904,
+    "timeMonth": 1904,
+    "timeYear": 1904,
     "dailyMinutesDown": {
-      "2025-05-04": 208
+      "2025-05-04": 217
     }
   }
 ]
