@@ -22,6 +22,45 @@ sites:
     assignees:
     - ADoebeling
 
+  - name: 'Status.Doebeling.de'
+    url: https://Status.Doebeling.de
+    icon: https://status.doebeling.de/logo-192.png
+    maxResponseTime: 500
+    skipDeleteIssues: true
+    assignees:
+    - ADoebeling
+
+  - name: 'Perepelytsina.de'
+    url: https://Perepelytsina.de
+    expectedStatusCodes:
+    - 301
+    icon: https://avatars.githubusercontent.com/u/122738789
+    maxResponseTime: 1000
+    skipDeleteIssues: true
+    assignees:
+    - NadiiaPer
+    - ADoebeling
+
+  - name: 'Nadiia.Perepelytsina.de'
+    url: https://Nadiia.Perepelytsina.de
+    expectedStatusCodes:
+    - 301
+    icon: https://avatars.githubusercontent.com/u/122738789
+    maxResponseTime: 1000
+    skipDeleteIssues: true
+    assignees:
+    - NadiiaPer
+    - ADoebeling
+
+  - name: 'Christian-Methfessel.de'
+    url: https://christian-methfessel.de
+    icon: https://christian-methfessel.de/build/favicon/icons-f6b353af/favicon.ico
+    maxResponseTime: 1000
+    skipDeleteIssues: true
+    assignees:
+    - Xendiadyon
+    - ADoebeling
+
   - name: 'Spruch-Archiv.com'
     url: https://Spruch-Archiv.com
     icon: https://www.spruch-archiv.com/favicon.ico
@@ -30,6 +69,17 @@ sites:
     skipDeleteIssues: true
     assignees:
     - Xendiadyon
+    - ADoebeling
+
+  - name: 'BlueBranch.de'
+    url: https://www.bluebranch.de/
+    icon: https://www.bluebranch.de/favicon.ico
+    __dangerous__body_down_if_text_missing: 'Lukas Beck'
+    maxResponseTime: 1000
+    skipDeleteIssues: true
+    assignees:
+    - LbeckX
+    - ADoebeling
   
 
 status-website:
