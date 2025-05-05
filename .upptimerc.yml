@@ -32,8 +32,6 @@ sites:
 
   - name: 'Perepelytsina.de'
     url: http://Perepelytsina.de
-    expectedStatusCodes:
-    - 301
     icon: https://avatars.githubusercontent.com/u/122738789
     maxResponseTime: 1000
     skipDeleteIssues: true
@@ -43,8 +41,6 @@ sites:
 
   - name: 'Nadiia.Perepelytsina.de'
     url: http://Nadiia.Perepelytsina.de
-    expectedStatusCodes:
-    - 301
     icon: https://avatars.githubusercontent.com/u/122738789
     maxResponseTime: 1000
     skipDeleteIssues: true
