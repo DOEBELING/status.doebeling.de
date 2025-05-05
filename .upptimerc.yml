@@ -91,7 +91,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://avatars.githubusercontent.com/u/10698845
   name: Status
-  introTitle: "Status of our own webservices"
+  introTitle: "Status of our webpages"
   navbar:
     - title: Status
       href: /
