@@ -61,18 +61,18 @@
     "icon": "https://avatars.githubusercontent.com/u/122738789",
     "slug": "perepelytsina-de",
     "status": "degraded",
-    "uptime": "28.58%",
-    "uptimeDay": "28.58%",
-    "uptimeWeek": "28.58%",
-    "uptimeMonth": "28.58%",
-    "uptimeYear": "28.58%",
+    "uptime": "28.35%",
+    "uptimeDay": "28.35%",
+    "uptimeWeek": "28.35%",
+    "uptimeMonth": "28.35%",
+    "uptimeYear": "28.35%",
     "time": 890,
     "timeDay": 890,
     "timeWeek": 890,
     "timeMonth": 890,
     "timeYear": 890,
     "dailyMinutesDown": {
-      "2025-05-05": 521
+      "2025-05-05": 527
     }
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://avatars.githubusercontent.com/u/122738789",
     "slug": "nadiia-perepelytsina-de",
     "status": "degraded",
-    "uptime": "43.45%",
-    "uptimeDay": "43.45%",
-    "uptimeWeek": "43.45%",
-    "uptimeMonth": "43.45%",
-    "uptimeYear": "43.45%",
+    "uptime": "43.10%",
+    "uptimeDay": "43.10%",
+    "uptimeWeek": "43.10%",
+    "uptimeMonth": "43.10%",
+    "uptimeYear": "43.10%",
     "time": 890,
     "timeDay": 890,
     "timeWeek": 890,
     "timeMonth": 890,
     "timeYear": 890,
     "dailyMinutesDown": {
-      "2025-05-05": 413
+      "2025-05-05": 419
     }
   },
   {
@@ -119,11 +119,11 @@
     "icon": "https://www.spruch-archiv.com/favicon.ico",
     "slug": "spruch-archiv-com",
     "status": "up",
-    "uptime": "90.17%",
+    "uptime": "90.19%",
     "uptimeDay": "92.64%",
-    "uptimeWeek": "90.17%",
-    "uptimeMonth": "90.17%",
-    "uptimeYear": "90.17%",
+    "uptimeWeek": "90.19%",
+    "uptimeMonth": "90.19%",
+    "uptimeYear": "90.19%",
     "time": 1163,
     "timeDay": 718,
     "timeWeek": 1163,
