@@ -61,7 +61,7 @@ sites:
     url: https://Spruch-Archiv.com
     icon: https://www.spruch-archiv.com/favicon.ico
     __dangerous__body_down_if_text_missing: 'Herzlich Willkommen im Spruch-Archiv'
-    maxResponseTime: 1000
+    maxResponseTime: 2000
     skipDeleteIssues: true
     assignees:
     - Xendiadyon
