@@ -31,7 +31,7 @@ sites:
     - ADoebeling
 
   - name: 'Perepelytsina.de'
-    url: https://Perepelytsina.de
+    url: http://Perepelytsina.de
     expectedStatusCodes:
     - 301
     icon: https://avatars.githubusercontent.com/u/122738789
@@ -42,7 +42,7 @@ sites:
     - ADoebeling
 
   - name: 'Nadiia.Perepelytsina.de'
-    url: https://Nadiia.Perepelytsina.de
+    url: http://Nadiia.Perepelytsina.de
     expectedStatusCodes:
     - 301
     icon: https://avatars.githubusercontent.com/u/122738789
