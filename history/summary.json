@@ -61,18 +61,18 @@
     "icon": "https://avatars.githubusercontent.com/u/122738789",
     "slug": "perepelytsina-de",
     "status": "down",
-    "uptime": "6.96%",
+    "uptime": "6.92%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "6.96%",
-    "uptimeMonth": "6.96%",
-    "uptimeYear": "6.96%",
+    "uptimeWeek": "6.92%",
+    "uptimeMonth": "6.92%",
+    "uptimeYear": "6.92%",
     "time": 1680,
     "timeDay": 2877,
     "timeWeek": 1680,
     "timeMonth": 1680,
     "timeYear": 1680,
     "dailyMinutesDown": {
-      "2025-05-07": 457,
+      "2025-05-07": 475,
       "2025-05-06": 1440,
       "2025-05-05": 892
     }
@@ -83,18 +83,18 @@
     "icon": "https://avatars.githubusercontent.com/u/122738789",
     "slug": "nadiia-perepelytsina-de",
     "status": "down",
-    "uptime": "10.58%",
+    "uptime": "10.52%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "10.58%",
-    "uptimeMonth": "10.58%",
-    "uptimeYear": "10.58%",
+    "uptimeWeek": "10.52%",
+    "uptimeMonth": "10.52%",
+    "uptimeYear": "10.52%",
     "time": 1445,
     "timeDay": 2341,
     "timeWeek": 1445,
     "timeMonth": 1445,
     "timeYear": 1445,
     "dailyMinutesDown": {
-      "2025-05-07": 457,
+      "2025-05-07": 475,
       "2025-05-06": 1440,
       "2025-05-05": 784
     }
@@ -105,18 +105,18 @@
     "icon": "https://christian-methfessel.de/build/favicon/icons-f6b353af/favicon.ico",
     "slug": "christian-methfessel-de",
     "status": "up",
-    "uptime": "97.91%",
-    "uptimeDay": "95.65%",
-    "uptimeWeek": "97.91%",
-    "uptimeMonth": "97.91%",
-    "uptimeYear": "97.91%",
+    "uptime": "97.34%",
+    "uptimeDay": "94.43%",
+    "uptimeWeek": "97.34%",
+    "uptimeMonth": "97.34%",
+    "uptimeYear": "97.34%",
     "time": 407,
     "timeDay": 377,
     "timeWeek": 407,
     "timeMonth": 407,
     "timeYear": 407,
     "dailyMinutesDown": {
-      "2025-05-07": 63
+      "2025-05-07": 80
     }
   },
   {
@@ -125,18 +125,18 @@
     "icon": "https://www.spruch-archiv.com/favicon.ico",
     "slug": "spruch-archiv-com",
     "status": "up",
-    "uptime": "89.54%",
-    "uptimeDay": "82.06%",
-    "uptimeWeek": "89.54%",
-    "uptimeMonth": "89.54%",
-    "uptimeYear": "89.54%",
+    "uptime": "89.25%",
+    "uptimeDay": "80.84%",
+    "uptimeWeek": "89.25%",
+    "uptimeMonth": "89.25%",
+    "uptimeYear": "89.25%",
     "time": 1280,
     "timeDay": 1697,
     "timeWeek": 1280,
     "timeMonth": 1280,
     "timeYear": 1280,
     "dailyMinutesDown": {
-      "2025-05-07": 240,
+      "2025-05-07": 258,
       "2025-05-06": 18,
       "2025-05-05": 106,
       "2025-05-04": 217
@@ -148,18 +148,18 @@
     "icon": "https://www.bluebranch.de/favicon.ico",
     "slug": "blue-branch-de",
     "status": "up",
-    "uptime": "97.95%",
-    "uptimeDay": "95.73%",
-    "uptimeWeek": "97.95%",
-    "uptimeMonth": "97.95%",
-    "uptimeYear": "97.95%",
+    "uptime": "97.38%",
+    "uptimeDay": "94.51%",
+    "uptimeWeek": "97.38%",
+    "uptimeMonth": "97.38%",
+    "uptimeYear": "97.38%",
     "time": 603,
     "timeDay": 709,
     "timeWeek": 603,
     "timeMonth": 603,
     "timeYear": 603,
     "dailyMinutesDown": {
-      "2025-05-07": 61
+      "2025-05-07": 79
     }
   }
 ]
