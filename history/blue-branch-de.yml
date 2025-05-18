@@ -1,7 +1,7 @@
 url: https://www.bluebranch.de/
-status: up
+status: degraded
 code: 200
-responseTime: 368
-lastUpdated: 2025-05-18T21:27:21.894Z
+responseTime: 1691
+lastUpdated: 2025-05-18T22:34:46.777Z
 startTime: 2025-05-05T05:38:57.443Z
 generator: Upptime <https://github.com/upptime/upptime>
