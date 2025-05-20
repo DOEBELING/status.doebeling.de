@@ -72,7 +72,7 @@
     "timeMonth": 1230,
     "timeYear": 1230,
     "dailyMinutesDown": {
-      "2025-05-20": 650,
+      "2025-05-20": 655,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
       "2025-05-17": 1440,
@@ -107,7 +107,7 @@
     "timeMonth": 1080,
     "timeYear": 1080,
     "dailyMinutesDown": {
-      "2025-05-20": 650,
+      "2025-05-20": 655,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
       "2025-05-17": 1440,
@@ -132,7 +132,7 @@
     "slug": "christian-methfessel-de",
     "status": "up",
     "uptime": "85.05%",
-    "uptimeDay": "72.26%",
+    "uptimeDay": "72.58%",
     "uptimeWeek": "69.76%",
     "uptimeMonth": "85.05%",
     "uptimeYear": "85.05%",
