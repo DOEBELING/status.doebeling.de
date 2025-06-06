@@ -1,7 +1,7 @@
 url: http://Perepelytsina.de
-status: down
-code: 429
-responseTime: 540
-lastUpdated: 2025-06-06T00:00:58.127Z
+status: degraded
+code: 999
+responseTime: 1290
+lastUpdated: 2025-06-06T00:36:51.935Z
 startTime: 2025-05-05T05:38:48.609Z
 generator: Upptime <https://github.com/upptime/upptime>
