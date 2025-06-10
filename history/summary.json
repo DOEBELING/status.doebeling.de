@@ -76,7 +76,7 @@
     "timeMonth": 985,
     "timeYear": 1024,
     "dailyMinutesDown": {
-      "2025-06-10": 219,
+      "2025-06-10": 220,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
@@ -178,8 +178,8 @@
     "slug": "spruch-archiv-com",
     "status": "down",
     "uptime": "78.50%",
-    "uptimeDay": "73.39%",
-    "uptimeWeek": "53.55%",
+    "uptimeDay": "73.35%",
+    "uptimeWeek": "53.54%",
     "uptimeMonth": "73.36%",
     "uptimeYear": "78.50%",
     "time": 2068,
@@ -188,7 +188,7 @@
     "timeMonth": 2105,
     "timeYear": 2068,
     "dailyMinutesDown": {
-      "2025-06-10": 186,
+      "2025-06-10": 187,
       "2025-06-09": 320,
       "2025-06-08": 1360,
       "2025-06-07": 332,
