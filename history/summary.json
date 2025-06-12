@@ -11,7 +11,7 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 200,
-    "timeDay": 207,
+    "timeDay": 205,
     "timeWeek": 194,
     "timeMonth": 201,
     "timeYear": 200,
@@ -76,7 +76,7 @@
     "timeMonth": 996,
     "timeYear": 1029,
     "dailyMinutesDown": {
-      "2025-06-12": 1018,
+      "2025-06-12": 1031,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
@@ -134,7 +134,7 @@
     "timeMonth": 878,
     "timeYear": 910,
     "dailyMinutesDown": {
-      "2025-06-12": 1018,
+      "2025-06-12": 1031,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
@@ -180,17 +180,17 @@
     "url": "https://Spruch-Archiv.com",
     "icon": "https://www.spruch-archiv.com/favicon.ico",
     "slug": "spruch-archiv-com",
-    "status": "up",
-    "uptime": "78.33%",
-    "uptimeDay": "84.10%",
-    "uptimeWeek": "50.64%",
-    "uptimeMonth": "71.33%",
-    "uptimeYear": "78.33%",
-    "time": 1929,
-    "timeDay": 1586,
-    "timeWeek": 1071,
-    "timeMonth": 1947,
-    "timeYear": 1929,
+    "status": "down",
+    "uptime": "78.35%",
+    "uptimeDay": "84.07%",
+    "uptimeWeek": "50.77%",
+    "uptimeMonth": "71.35%",
+    "uptimeYear": "78.35%",
+    "time": 1928,
+    "timeDay": 1563,
+    "timeWeek": 1070,
+    "timeMonth": 1946,
+    "timeYear": 1928,
     "dailyMinutesDown": {
       "2025-06-12": 216,
       "2025-06-11": 1030,
@@ -210,7 +210,7 @@
       "2025-05-28": 421,
       "2025-05-27": 487,
       "2025-05-26": 1054,
-      "2025-05-25": 536
+      "2025-05-25": 525
     }
   }
 ]
