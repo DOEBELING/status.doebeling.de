@@ -1,7 +1,7 @@
 url: http://Nadiia.Perepelytsina.de
-status: degraded
-code: 999
-responseTime: 1491
-lastUpdated: 2025-06-19T15:30:46.174Z
+status: down
+code: 429
+responseTime: 561
+lastUpdated: 2025-06-19T15:55:18.346Z
 startTime: 2025-05-05T05:38:50.449Z
 generator: Upptime <https://github.com/upptime/upptime>
