@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 194,
-    "timeDay": 261,
-    "timeWeek": 226,
-    "timeMonth": 201,
+    "timeDay": 224,
+    "timeWeek": 223,
+    "timeMonth": 202,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2025-06-05": 12,
@@ -26,18 +26,19 @@
     "url": "https://Andreas.Doebeling.de",
     "icon": "https://avatars.githubusercontent.com/u/10674780",
     "slug": "andreas-doebeling-de",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 121,
-    "timeDay": 121,
-    "timeWeek": 119,
+    "timeDay": 145,
+    "timeWeek": 123,
     "timeMonth": 120,
     "timeYear": 121,
     "dailyMinutesDown": {
+      "2025-08-07": 0,
       "2025-06-05": 17
     }
   },
@@ -53,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 305,
-    "timeDay": 337,
+    "timeDay": 322,
     "timeWeek": 311,
-    "timeMonth": 309,
+    "timeMonth": 310,
     "timeYear": 305,
     "dailyMinutesDown": {}
   }
